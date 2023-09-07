@@ -25,7 +25,7 @@ I have a strong interest in blockchain technology and have been exploring and de
 - CARD GAME *https://github.com/Devhazeleth/NFT-CARD-GAME.git* : This project is a blockchain-based card game where players can collect, trade, and battle with unique NFT (Non-Fungible Token) cards. 
      This repository contains the server-side code responsible for managing user accounts, game logic, and interactions with the blockchain.
 
-- App Master *https://github.com/Devhazeleth/App_master.git* : Explain the significance of the third project and how it exemplifies your abilities.
+- App Master *https://github.com/Devhazeleth/App_master.git* : This project serves as the central hub for managing and maintaining the fleet of vehicles in the WeGo car-sharing platform. 
 
 #  🌱  How to Get Started
 
