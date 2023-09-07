@@ -14,7 +14,7 @@ I have a strong interest in blockchain technology and have been exploring and de
 
 - Building frontend interfaces, dApps, and communicating with smart contracts with web3 frameworks is experience in JavaScript/TypeScript.
 
-- Go: Skilled in creating blockchain infrastructure, tools, and apps, especially for networks like Ethereum and Binance Smart Chain.
+- Go: Skilled in creating blockchain infrastructure, tools, and apps, especially for networks like Ethereum, Solana and Binance Smart Chain.
   
  #  📑  Project
 
